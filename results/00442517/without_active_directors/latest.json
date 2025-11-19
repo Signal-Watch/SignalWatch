@@ -1,0 +1,35 @@
+{
+  "company_number": "00442517",
+  "processed_at": "2025-11-19T19:20:55.400745",
+  "company_name": "TAVISTOCK INSTITUTE OF HUMAN RELATIONS(THE)",
+  "company_status": "active",
+  "total_filings": 237,
+  "relevant_filings": 1,
+  "parsed_documents": 1,
+  "mismatches": {
+    "company_number": "00442517",
+    "company_name": "TAVISTOCK INSTITUTE OF HUMAN RELATIONS(THE)",
+    "checked_at": "2025-11-19T19:21:11.636179",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "MIrI1sl95piY-L8ORkj-7joGMRyT7a3dsa6HxSdgaZc.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_metadata": {
+    "company_number": "00442517",
+    "scanned_at": "2025-11-19T19:23:34.449717",
+    "scan_timestamp": "20251119_192334",
+    "version": "1.0"
+  }
+}
