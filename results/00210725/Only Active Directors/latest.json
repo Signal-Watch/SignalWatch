@@ -1,0 +1,71 @@
+{
+  "company_number": "00210725",
+  "processed_at": "2025-11-20T01:27:53.643760",
+  "company_name": "AON UK LIMITED",
+  "company_status": "active",
+  "total_filings": 463,
+  "relevant_filings": 53,
+  "parsed_documents": 8,
+  "mismatches": {
+    "company_number": "00210725",
+    "company_name": "AON UK LIMITED",
+    "checked_at": "2025-11-20T01:28:32.850164",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "aCZ7SIri-skucUG0obDuoNRrdGQPGo5NZxoIzg8Iyf8.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "sW2rAKYqOzdIMB4wz7gJIK25a5KEtQewkZXD8DpuC6c.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "w7V6V1bzUBLShhsH5iSKr1T2xMFeLwoIg7sDiwC8_N8.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "ldcHn2OyYnr8Y0rRQL5z8q5RFb_XQGLuESRTaniU8Qo.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "dJabt0sqthUP6pKDtBgicVshty4LwArBbHg7oSuIZuo.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "3fQ7oeJAXr2ojKU3FtHeeWeTMk8uKEOQrWGMqnD9o-k.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "OtIU5eZ4G6ibyJKJat6LW7EF3k4EgEIquekEzBjqemg.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "g7BjBW2SYa7Lkv2oCxv3C7rOJnx1X3s4_KNeEBxbaB0.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Only Active Directors",
+  "_metadata": {
+    "company_number": "00210725",
+    "scanned_at": "2025-11-20T01:29:33.549754",
+    "scan_timestamp": "20251120_012933",
+    "version": "1.0"
+  }
+}
