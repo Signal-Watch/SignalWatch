@@ -1,0 +1,66 @@
+{
+  "company_number": "01056715",
+  "processed_at": "2025-11-20T00:16:00.407053",
+  "company_name": "MARINA DEVELOPMENTS LIMITED",
+  "company_status": "active",
+  "total_filings": 310,
+  "relevant_filings": 10,
+  "parsed_documents": 7,
+  "mismatches": {
+    "company_number": "01056715",
+    "company_name": "MARINA DEVELOPMENTS LIMITED",
+    "checked_at": "2025-11-20T00:17:04.466513",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "iV54ZwT0i-GlQDke9RA9jdExIUqIJC5m6-fNCvMOmus.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "xh17z9C3IKPbZ4IE5SrgXBafQtToK5BxHAhu3Ho_-fs.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "rPfyvr0EA23UEVij9t3tu_xu4aJF2pAxD-sOhaMXdx8.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "1NSxB15FKLvvfRZ0tgE-oPO9wOXbav_T5e5g-QZl2cc.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "i-drVWX5rOV07XQHJQQPkObD5PIEMg_1MrRzQRDkwFU.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "0oE2K00U80pxvtSb_yaz4GGRdjTv5eqLCWJb7xoZv-M.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "G4dNVtAomilsVMfHc80EFKfFsSYbQIJL3vbLJidwCro.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Only Active Directors",
+  "_metadata": {
+    "company_number": "01056715",
+    "scanned_at": "2025-11-20T00:17:32.839889",
+    "scan_timestamp": "20251120_001732",
+    "version": "1.0"
+  }
+}
