@@ -1,0 +1,66 @@
+{
+  "company_number": "00318898",
+  "processed_at": "2025-11-21T18:25:43.079487",
+  "company_name": "EXCELSIOR HOTELS LIMITED",
+  "company_status": "dissolved",
+  "total_filings": 183,
+  "relevant_filings": 14,
+  "parsed_documents": 7,
+  "mismatches": {
+    "company_number": "00318898",
+    "company_name": "EXCELSIOR HOTELS LIMITED",
+    "checked_at": "2025-11-21T18:25:47.883149",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "Rtmo9y8ynazFGd5aCwTpgjJn-skCSa8fa0W0MCmBBvo.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "_PcUT06SHxC1o90b75PXBWA_4xCLuiQC1-6kJlEEHAc.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "l-0x8Ur3gohMiDvePfKw1Yb5p3XRjGcVUtfvYjDxVJs.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "IheJzdvxr6aaXBelwOX4N6ulFhjhiQejBRbA9id4sis.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "Pu4AEtR1A4VivT99U3FAHhQbSRwAs9rk11HH_RyGZRY.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "TQZm7aCe_nluZUqhGMK3jIMzAZ8ABcwxnFs2K-7QN3A.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "L_PV0tj6rvJ0zv_PfrRS6wMACJubXuCsGcrFQ3HvIdI.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Only Active Directors",
+  "_metadata": {
+    "company_number": "00318898",
+    "scanned_at": "2025-11-21T18:25:53.012814",
+    "scan_timestamp": "20251121_182553",
+    "version": "1.0"
+  }
+}
