@@ -1,0 +1,51 @@
+{
+  "company_number": "00217380",
+  "processed_at": "2025-11-21T18:12:38.924449",
+  "company_name": "BOOKER FETSECOND LIMITED",
+  "company_status": "dissolved",
+  "total_filings": 8,
+  "relevant_filings": 4,
+  "parsed_documents": 4,
+  "mismatches": {
+    "company_number": "00217380",
+    "company_name": "BOOKER FETSECOND LIMITED",
+    "checked_at": "2025-11-21T18:12:42.007463",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "4MgP0JlEdAh4oYMD005FglJtVQ1EgQ-eSTQx40-cOIM.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "mKf1HMG1C8stnyhQsmxw5qe4dNOjfQzMcaLqKMr9GT4.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "x4e6EQL4etoW8cYxoqEnyGTEygwE6iTgw9PlirYqnl0.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "NvW_QUrVSXy8v63vlC7wMF7Ie7aFiMNZxmV4bh9nNLw.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Only Active Directors",
+  "_metadata": {
+    "company_number": "00217380",
+    "scanned_at": "2025-11-21T18:12:42.074161",
+    "scan_timestamp": "20251121_181242",
+    "version": "1.0"
+  }
+}
