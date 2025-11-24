@@ -1,0 +1,81 @@
+{
+  "company_number": "01000824",
+  "processed_at": "2025-11-24T19:33:19.869352",
+  "company_name": "THE LULLABY TRUST LIMITED",
+  "company_status": "active",
+  "total_filings": 287,
+  "relevant_filings": 12,
+  "parsed_documents": 10,
+  "mismatches": {
+    "company_number": "01000824",
+    "company_name": "THE LULLABY TRUST LIMITED",
+    "checked_at": "2025-11-24T19:33:41.291942",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "tVZ37wTB0vW-HOlCSDEBVWe-D4acjNv156ToiU_vkWE.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "D6CCOu_gZjyxhdUicZaAnC4lhN7KOYJ6OnULTCEHgzU.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "mjV4fbmCuRbUUob9wM2hzke895w53XkIFUF7zdb_Cb4.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "F0-utfU5j6F9_S3h_UO5xnw25wMnNmsAAcIWmFXf6AY.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "v_ERB_klftNdycBY-gnFgg4EXXd9_uLLP-oFQBf82rs.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "AOvcyjhtrH_e93glMpKQLe7kd95Hga7yVBo-HYa8OBA.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "gZ2xfQeeNNLBQTBjhsKGDPfaP6iimoNOR9PJnd_OucA.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "pIzpIzE2TCvuJzyfgV80zZjEySHJ0Dst7g_garxqoF4.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "5urqMYK74_oFkF53yAlQVW8snLCNFgTRMBxRVY1LHYI.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "NSxKMBrO43F_3yowVuuP34Jrp95A5yQHjaBikCpF_-o.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Directors",
+  "_metadata": {
+    "company_number": "01000824",
+    "scanned_at": "2025-11-24T19:43:59.483602",
+    "scan_timestamp": "20251124_194359",
+    "version": "1.0"
+  }
+}
