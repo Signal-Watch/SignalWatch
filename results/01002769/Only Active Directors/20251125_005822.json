@@ -1,0 +1,61 @@
+{
+  "company_number": "01002769",
+  "processed_at": "2025-11-25T00:56:04.332509",
+  "company_name": "MCDONALD'S RESTAURANTS LIMITED",
+  "company_status": "active",
+  "total_filings": 247,
+  "relevant_filings": 12,
+  "parsed_documents": 6,
+  "mismatches": {
+    "company_number": "01002769",
+    "company_name": "MCDONALD'S RESTAURANTS LIMITED",
+    "checked_at": "2025-11-25T00:57:01.922266",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "C6VbCpnasdYzTTKXv7-oCG4mSDUQkpzSNRQAKSsyyh0.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "iovpKs0wX0gYatg-JNdcPDmW-u9TTPyYQZwF7nPDqug.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "DwoCsPgkdCik8YaCIc5wXpBXXMnpNHvdoQH9Q1wCnpM.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "o-3rXEzScj7nZ5s2tousb-d8cJkHjnrsPNSOqXkR1Jo.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "DnW7bQVXoNL1Jyk0cBivSYwh_czUl-dKfkGnMREFch8.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "SVkNROKK_32O6cRpSdZhgwh5hHzJ9LkoZmEGvRbnWKk.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Only Active Directors",
+  "_metadata": {
+    "company_number": "01002769",
+    "scanned_at": "2025-11-25T00:58:22.355093",
+    "scan_timestamp": "20251125_005822",
+    "version": "1.0"
+  }
+}
