@@ -1,0 +1,71 @@
+{
+  "company_number": "01503621",
+  "processed_at": "2025-11-24T20:08:07.125269",
+  "company_name": "LIBERTY INTERNATIONAL HOLDINGS LIMITED",
+  "company_status": "administration",
+  "total_filings": 368,
+  "relevant_filings": 57,
+  "parsed_documents": 8,
+  "mismatches": {
+    "company_number": "01503621",
+    "company_name": "LIBERTY INTERNATIONAL HOLDINGS LIMITED",
+    "checked_at": "2025-11-24T20:08:19.454674",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "sK2irBpkfPH0OKfpVDibghDpfwvVAcMXK1GtgeayBio.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "jB2DRSEIk3GWE2fKbS7qImfZCHVrnz9Jf7n9V01jMwM.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "n7OpPpJCTsrNfV3ahv9qgXx--Ny7ethCvKedkvKikRk.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "I5xYyxDOJoIEqzTdMtGXUJxBes8woczreA5AVvK1roE.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "V9TCJGvz5VxB3nGR4a5xab-eQo8Q046kC9Y_a4Jli3Y.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "mBaJu4LRdGHw368rv4ApUjOnEROA6Qhdo1flTNzYL5U.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "RQsKR10qkcYI7cgpW4nxoqvZ7entH6BPeK4LoDR2Z6w.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "QuwJF_Y_ijE0TfXbRlixFN57lSc5YwGWxK6Q2D6W7Uo.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Only Active Directors",
+  "_metadata": {
+    "company_number": "01503621",
+    "scanned_at": "2025-11-24T20:08:19.645248",
+    "scan_timestamp": "20251124_200819",
+    "version": "1.0"
+  }
+}
