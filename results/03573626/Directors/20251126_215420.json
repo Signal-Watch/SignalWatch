@@ -1,0 +1,30 @@
+{
+  "company_number": "03573626",
+  "processed_at": "2025-11-26T21:44:45.083193",
+  "company_name": "FREESHIRE LIMITED",
+  "company_status": "active",
+  "total_filings": 206,
+  "relevant_filings": 23,
+  "parsed_documents": 8,
+  "mismatches": {
+    "company_number": "03573626",
+    "company_name": "FREESHIRE LIMITED",
+    "checked_at": "2025-11-26T21:46:29.845715",
+    "mismatches": [],
+    "warnings": [],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Directors",
+  "_metadata": {
+    "company_number": "03573626",
+    "scanned_at": "2025-11-26T21:54:20.592028",
+    "scan_timestamp": "20251126_215420",
+    "version": "1.0"
+  }
+}
